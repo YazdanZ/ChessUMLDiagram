@@ -1,1 +1,2 @@
 *.svg linguist-detectable=true
+*.svg linguist-language=PlantUML
