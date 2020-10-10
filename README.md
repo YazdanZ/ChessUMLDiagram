@@ -1,6 +1,6 @@
 # ChessUMLDiagram
 UML diagram for a chess game written in Java.<br/>
-Want to start coding a chess game but don't know where to start from? This class diagram might help you started to write a chess game following OOP concepts. 
+Want to start coding a chess game but don't know where to start from? This class diagram will help you get started in writing a chess game following OOP concepts. 
 
 ## Preview 
 <p align="center">
